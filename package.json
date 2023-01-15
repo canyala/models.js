@@ -1,0 +1,32 @@
+{
+  "name": "models",
+  "version": "1.0.0",
+  "description": "A utility package for creating models.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canyala/models.js.git"
+  },
+  "keywords": [
+    "state",
+    "observe",
+    "view",
+    "model",
+    "observable",
+    "observables",
+    "property",
+    "properties",
+    "collection",
+    "collections",
+    "viewmodel"
+  ],
+  "author": "Martin Fredriksson <mf@canyala.se> (http://www.canyala.se)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/canyala/models.js/issues"
+  },
+  "homepage": "https://github.com/canyala/models.js#readme"
+}

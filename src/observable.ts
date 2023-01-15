@@ -174,7 +174,7 @@ export abstract class Observable implements Disposable {
     }
 
     /***
-     * Dispose of the observable, clean up dependecies.
+     * Dispose of the observable, clean up dependencies.
      * 
      * @experimental not used in any scenarios yet...
      */
